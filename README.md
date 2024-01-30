@@ -6,13 +6,14 @@ PurpleFramework is a Python script designed for Open Source Intelligence (OSINT)
 - Menu-driven interface for easy navigation.
 - Categorized access to OSINT tools across different domains.
 - Simple and user-friendly design.
+- +300 web browser tools collection for OSINT
 
 ## Usage
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/PurpleFramework.git
+    git clone https://github.com/Purpl3-Dev/purpleframework.git
     ```
 
 2. Navigate to the directory:
