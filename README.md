@@ -19,13 +19,13 @@ PurpleFramework is a Python script designed for Open Source Intelligence (OSINT)
 2. Navigate to the directory:
 
     ```bash
-    cd PurpleFramework
+    cd purpleframework
     ```
 
 3. Run the script:
 
     ```bash
-    python purpleframework.py
+    python3 purpleframework.py
     ```
 
 4. Follow the on-screen menu to explore OSINT tools.
